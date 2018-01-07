@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--<!--
+ * Source: DeVry University :: Lab 3 Partial Solution :: January 25th, 2012
+ * Professor:   Richard Martin :: rmartin@devry.edu
+ * Comments:
+ -->
+<DiagramLayout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ex:showrelationlabel="False" ViewPortX="11" ViewPortY="0" xmlns:ex="urn:schemas-microsoft-com:xml-msdatasource-layout-extended" xmlns="urn:schemas-microsoft-com:xml-msdatasource-layout">
+  <Shapes>
+    <Shape ID="DesignTable:tblUserActivity" ZOrder="1" X="454" Y="170" Height="153" Width="231" AdapterExpanded="true" DataTableExpanded="true" OldAdapterHeight="0" OldDataTableHeight="0" SplitterPosition="102" />
+  </Shapes>
+  <Connectors />
+</DiagramLayout>
