@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-frmMain.aspx",
+      "appliesTo": "WEBCIS407A_W3_iLab_Test_Working/frmMain.aspx.cs",
+      "type": "launch"
+    }
+  ]
+}
